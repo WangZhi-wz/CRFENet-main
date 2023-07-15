@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b68f909-963d-4533-b700-6c39396c09d0" name="Colonformer">
+        <fileTransfer accessType="SFTP" sshConfigId="f3e8ebae-0203-49d0-b090-58a8b0788cbe" sshConfig="root@i-1.gpushare.com:24782 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="70eab6cd-a852-4f75-be1d-d6585e029159" name="20230213colonformer">
+        <fileTransfer accessType="SFTP" host="i-1.gpushare.com" port="42288" sshConfigId="b2f0a1c2-018a-4a94-9b81-28032dedf6db" sshConfig="root@i-1.gpushare.com:42288 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

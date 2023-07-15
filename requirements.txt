@@ -1,0 +1,3 @@
+mmcv-full==1.2.7
+torchvision==0.8.2
+timm
